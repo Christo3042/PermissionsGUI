@@ -1,0 +1,6 @@
+name: 'PermissionsGUI'
+main: me.christo.permissionsgui.Main
+description: 'Permissions GUI Plugin'
+version: '1.0'
+author: 'Christo'
+
